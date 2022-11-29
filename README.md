@@ -32,11 +32,13 @@ This app is used to build an dashboard UI showing a prediction of survival for t
 https://huggingface.co/spaces/YuhangDeng123/Titanic
 
 # Hugging Face Spaces public URL of Titanic Project for Dashboard UI.
+https://huggingface.co/spaces/YuhangDeng123/Titanic_Monitoring
 
 # Hugging Face Spaces public URL of Iris Project for Interactive UI.
+https://huggingface.co/spaces/YuhangDeng123/iris
 
 # Hugging Face Spaces public URL of Iris Project for Dashboard UI.
-
+https://huggingface.co/spaces/YuhangDeng123/Iris_Monitoring
 
 
 
