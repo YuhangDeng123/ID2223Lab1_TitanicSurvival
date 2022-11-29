@@ -28,5 +28,17 @@ This app is used to build an interactive UI for entering feature values and pred
 # \huggingface-spaces-titanic-monitor\app.py
 This app is used to build an dashboard UI showing a prediction of survival for the most recent passenger added to the Feature Store and the outcome (label) if that passenger survived or not. Include a confusion matrix to show historical model performance.
 
+# Hugging Face Spaces public URL of Titanic Project for Interactive UI.
+https://huggingface.co/spaces/YuhangDeng123/Titanic
+
+# Hugging Face Spaces public URL of Titanic Project for Dashboard UI.
+
+# Hugging Face Spaces public URL of Iris Project for Interactive UI.
+
+# Hugging Face Spaces public URL of Iris Project for Dashboard UI.
+
+
+
+
 
 
